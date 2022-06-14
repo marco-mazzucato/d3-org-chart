@@ -1,0 +1,162 @@
+{"shareHolders": [
+    {
+      "id": "BCCCLD68H22C964X",
+      "name": "CLAUDIO BOCCARDO",
+      "firstNames": "CLAUDIO",
+      "surname": "BOCCARDO",
+      "address": {
+        "simpleValue": "VIA MONS. C. LIVIERO 58, 35021 AGNA PD"
+      },
+      "shareholderType": "Person",
+      "percentSharesHeld": 20,
+      "shareClasses": [
+        {
+          "currency": "EUR",
+          "additionalData": {
+            "quotaId": 1,
+            "shareRights": "PROPRIETA'",
+            "quotaValues": [
+              {
+                "quotaId": 1,
+                "quotaPercentage": 20,
+                "quota": 24500
+              }
+            ]
+          }
+        }
+      ],
+      "additionalData": {
+        "protesti": false,
+        "prejudicials": false,
+        "gender": "Unknown"
+      }
+    },
+    {
+      "id": "BCCGPT67E13C964I",
+      "name": "GIAMPIETRO BOCCARDO",
+      "firstNames": "GIAMPIETRO",
+      "surname": "BOCCARDO",
+      "address": {
+        "simpleValue": "VIALE VENEZIA 6, 35026 CONSELVE PD"
+      },
+      "shareholderType": "Person",
+      "percentSharesHeld": 20,
+      "shareClasses": [
+        {
+          "currency": "EUR",
+          "additionalData": {
+            "quotaId": 2,
+            "shareRights": "PROPRIETA'",
+            "quotaValues": [
+              {
+                "quotaId": 2,
+                "quotaPercentage": 20,
+                "quota": 24500
+              }
+            ]
+          }
+        }
+      ],
+      "additionalData": {
+        "protesti": false,
+        "prejudicials": false,
+        "gender": "Unknown"
+      }
+    },
+    {
+      "id": "DCLVCN64L19C964F",
+      "name": "VINCENZO DE CILESI",
+      "firstNames": "VINCENZO",
+      "surname": "DE CILESI",
+      "address": {
+        "simpleValue": "VIA CASTELLARO 12, 35020 TRIBANO PD"
+      },
+      "shareholderType": "Person",
+      "percentSharesHeld": 20,
+      "shareClasses": [
+        {
+          "currency": "EUR",
+          "additionalData": {
+            "quotaId": 3,
+            "shareRights": "PROPRIETA'",
+            "quotaValues": [
+              {
+                "quotaId": 3,
+                "quotaPercentage": 20,
+                "quota": 24500
+              }
+            ]
+          }
+        }
+      ],
+      "additionalData": {
+        "protesti": false,
+        "prejudicials": false,
+        "gender": "Unknown"
+      }
+    },
+    {
+      "id": "NTCLBT73T50D325J",
+      "name": "ELISABETTA ANTICO",
+      "firstNames": "ELISABETTA",
+      "surname": "ANTICO",
+      "address": {
+        "simpleValue": "VIA DELLE ROSE 6 E, 35026 CONSELVE PD"
+      },
+      "shareholderType": "Person",
+      "percentSharesHeld": 20,
+      "shareClasses": [
+        {
+          "currency": "EUR",
+          "additionalData": {
+            "quotaId": 4,
+            "shareRights": "PROPRIETA'",
+            "quotaValues": [
+              {
+                "quotaId": 4,
+                "quotaPercentage": 20,
+                "quota": 24500
+              }
+            ]
+          }
+        }
+      ],
+      "additionalData": {
+        "protesti": false,
+        "prejudicials": false,
+        "gender": "Unknown"
+      }
+    },
+    {
+      "id": "NTCNDR84R27D325A",
+      "name": "ANDREA ANTICO",
+      "firstNames": "ANDREA",
+      "surname": "ANTICO",
+      "address": {
+        "simpleValue": "VIA CARDINAL PIAZZA 12, 32040 VIGO DI CADORE BL"
+      },
+      "shareholderType": "Person",
+      "percentSharesHeld": 20,
+      "shareClasses": [
+        {
+          "currency": "EUR",
+          "additionalData": {
+            "quotaId": 5,
+            "shareRights": "PROPRIETA'",
+            "quotaValues": [
+              {
+                "quotaId": 5,
+                "quotaPercentage": 20,
+                "quota": 24500
+              }
+            ]
+          }
+        }
+      ],
+      "additionalData": {
+        "protesti": false,
+        "prejudicials": false,
+        "gender": "Unknown"
+      }
+    }
+  ]}
